@@ -1,5 +1,6 @@
 import AppKit
 import ImageIO
+import AVFoundation
 
 enum WebpConverter {
     static func convert(items: [URL],
